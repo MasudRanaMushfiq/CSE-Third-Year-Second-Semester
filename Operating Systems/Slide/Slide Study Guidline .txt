@@ -1,0 +1,18 @@
+
+How to Read Slide:
+
+1. Study of all book slide are optional. First 4 chapter of book slides have nothing to note for exam or learn as they are covered by other slides already. 
+2. Every things comes from Sir Slide or these book slide which sir read(After 4th Chapter). No need to read course book from start to end.
+
+Class Test 01:
+Book Slide: 1-5
+Sir Own Slide: 1-6
+
+Class Test 02:
+Topic: Deadlock, Main Memory, Virtual Memory (All are Book Slide)
+
+
+
+
+
+
