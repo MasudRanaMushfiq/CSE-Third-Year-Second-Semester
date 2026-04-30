@@ -1,0 +1,22 @@
+
+Study Topics (Up to Chapter 4):
+
+Boundary
+Banking
+Address Bus
+Data Bus
+Demultiplexer (Demux)
+Multiplexer (Mux)
+Logical Address
+Physical Address
+Segment Registers
+Directive
+Memory Organization
+Internal Organization
+Pin Diagram
+Addressing Modes
+
+Important Instruction from Teacher:
+1. Study class lecture notes is must
+2. Study all chapters up to Chapter 4.
+3. Maximum questions will come from Chapter 4.

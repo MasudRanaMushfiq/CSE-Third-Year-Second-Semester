@@ -1,0 +1,9 @@
+
+Book Study Instruction:
+
+1. Here, all the pdf Chapter where Bookmark is green and paragraph are highlighted must need to read.
+2. Here two pdf is same book(Rafiquzzaman). In this Book 8085 and 8086 is clearly discussed. Must read it.
+
+3. Charles Marut Book just discussed some basic of processor, architecture of the Intel 8086 microprocessor family and assembly language programming for the IBM PC. 
+
+4. Other pdf book is also important, it looks like short note on 8085 and 8086. You can read full chapter for easy explain and understanding from this pdf for 8085 and 8086 processor.
